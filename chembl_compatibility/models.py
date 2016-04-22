@@ -12,6 +12,7 @@ from chembl_migration_model.models import CompoundStructures
 from chembl_migration_model.models import Docs
 from chembl_migration_model.models import Domains
 from chembl_migration_model.models import DrugMechanism
+from chembl_migration_model.models import MoleculeDictionary
 from chembl_migration_model.models import MoleculeHierarchy
 from chembl_migration_model.models import MoleculeSynonyms
 from chembl_migration_model.models import ProteinFamilyClassification

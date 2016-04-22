@@ -12,7 +12,7 @@ except ImportError:
 
 setup(
     name='chembl_compatibility',
-    version='2.1.0',
+    version='2.1.1',
     author='Michal Nowotka',
     platforms=['Linux'],
     author_email='mnowotka@ebi.ac.uk',
