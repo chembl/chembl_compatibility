@@ -27,3 +27,4 @@ from chembl_migration_model.models import DrugIndication
 from chembl_migration_model.models import IndicationRefs
 from chembl_migration_model.models import GoClassification
 from chembl_migration_model.models import ComponentGo
+from chembl_migration_model.models import TissueDictionary

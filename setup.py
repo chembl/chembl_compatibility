@@ -12,7 +12,7 @@ except ImportError:
 
 setup(
     name='chembl_compatibility',
-    version='2.1.1',
+    version='2.1.3',
     author='Michal Nowotka',
     platforms=['Linux'],
     author_email='mnowotka@ebi.ac.uk',
@@ -22,8 +22,8 @@ setup(
     packages=['chembl_compatibility'],
     long_description=open('README.rst').read(),
     install_requires=[
-        'chembl_core_model>=0.7.0',
-        'chembl_migration_model>=0.7.0'
+        'chembl-core-model>=0.8.3',
+        'chembl-migration-model>=0.8.1'
     ],
     include_package_data=False,
     classifiers=['Development Status :: 2 - Pre-Alpha',
